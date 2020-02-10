@@ -1,0 +1,26 @@
+:source-highlighter: rouge
+= Specifications
+
+[cols=2*]
+|===
+
+|Max power output (theoretical)
+|4.2 kW
+
+
+|Max power output (practical)
+|2.5 kW
+
+|Regular power output
+|2 kW
+
+|Maximum range
+|40 km
+
+|Maximum speed
+|35-37 km/h
+
+|Battery capacity
+|630 Wh
+
+|===
