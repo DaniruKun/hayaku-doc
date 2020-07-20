@@ -1,0 +1,23 @@
+= Configuration
+
+== Motor
+
+|====================
+| Poles | 14
+| Pulley | 15
+|====================
+
+== Wheel
+
+|====================
+| Pulley | 36
+| Diameter | 97mm
+|====================
+
+== Battery
+
+|====================
+| Voltage S | 10
+| Type | Li-ion
+| Configuration | 10s5p
+|====================

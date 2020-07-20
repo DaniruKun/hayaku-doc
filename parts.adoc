@@ -1,3 +1,14 @@
 = Parts list
 
-To be updated.
+- Haya HB83 shortboard (made by @bevilacqua) , because my friend wanted a small board
+- 10s5p 30Q battery (cells from @PowadangaBoi), to maximize range, while being 10s for safety
+- Bestech D596 80A BMS from @BigBen, to omit having an anti-spark
+- Focbox ESC. Original plan was a cheap TB one (hence 10s), but focbox fit better, and this build deserves it.
+- Caliber II trucks, because they were cheap. The color matches the deck perfectly.
+- Kyro soft angled risers for stability
+- Evolve 97mm GTR wheels, because of the color scheme
+- Abec wheel pulley from @ShawnyP
+- Maytech 6374 150kv motor from @seaborder for dirt cheap (unsensored)
+- @Boardnamics mount with idler (replaced)
+- Nano X remote (from @Moros), because it easily fits in your pocket, and is quite reliable
+- Metr Pro module
